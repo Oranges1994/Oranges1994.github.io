@@ -1,0 +1,5 @@
+baseURL = 'http://Oranges1994.github.io/'
+languageCode = 'en-us'
+title = "fanbubu's home"
+theme = 'tokiwa'
+publishDir = 'docs'
