@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on fanbubu&#39;s home</title>
+    <link>https://Oranges1994.github.io/post/</link>
+    <description>Recent content in Posts on fanbubu&#39;s home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Jun 2023 21:25:39 +0800</lastBuildDate>
+    
+	<atom:link href="https://Oranges1994.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://Oranges1994.github.io/post/blog/</link>
+      <pubDate>Fri, 09 Jun 2023 21:25:39 +0800</pubDate>
+      
+      <guid>https://Oranges1994.github.io/post/blog/</guid>
+      <description>&lt;h1 id=&#34;准备工作&#34;&gt;准备工作&lt;/h1&gt;
+&lt;h2 id=&#34;hugo安装&#34;&gt;HUGO安装&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;官网下载window arm&lt;/li&gt;
+&lt;li&gt;解压缩&lt;/li&gt;
+&lt;li&gt;硬盘新建博客文件夹&lt;/li&gt;
+&lt;li&gt;新建Hugo文件夹，内创建bin，将下载的Hugo.zip解压到此目录&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;标题&lt;/p&gt;
+&lt;h2 id=&#34;git安装&#34;&gt;git安装&lt;/h2&gt;
+&lt;h1 id=&#34;创建站点&#34;&gt;创建站点&lt;/h1&gt;
+&lt;h1 id=&#34;安装主题&#34;&gt;安装主题&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
