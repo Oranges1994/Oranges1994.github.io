@@ -22,7 +22,7 @@ style = "monokailight"
 unsafe = true
 
 [params]
-bannerFont = "fonts/Thanks-Lovely.woff" 
+bannerFont = "fonts/Thanks-Lovely" 
 #bannerFont = "fonts/exampleFont" 
 description = """
 For Grace Ma, who used full food to explain what is called hot love in the second anniversary.
